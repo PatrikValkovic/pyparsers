@@ -1,5 +1,11 @@
 # pyparsers [![Build Status](https://travis-ci.org/PatrikValkovic/pyparsers.svg?branch=master)](https://travis-ci.org/PatrikValkovic/pyparsers) [![Coverage Status](https://coveralls.io/repos/github/PatrikValkovic/pyparsers/badge.svg?branch=master)](https://coveralls.io/github/PatrikValkovic/pyparsers?branch=master)
 
+----------
+
+## THIS LIBRARY IS DEPRECATED, USE THE `grampy` LIBRARY INSTEAD.
+
+----------
+
 Library implements CYK algorithm.
 It uses grammpy library for grammar specification.
 
@@ -17,7 +23,7 @@ parsed = cyk(g, [*input])
 
 -----
 
-Version: 0.0.2
+Version: 0.0.3
 
 Author: Patrik Valkovič
 
